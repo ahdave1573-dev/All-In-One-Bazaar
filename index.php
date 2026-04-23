@@ -12,7 +12,7 @@ include('includes/header.php');
 if(file_exists("config/db.php")) {
     include_once("config/db.php");
 } else {
-    if(file_exists("db.php")) { include_once("db.php"); }
+    if(file_exists("db.php")) { include_once("db.php");  }
 }
 
 // Fetch categories for display
