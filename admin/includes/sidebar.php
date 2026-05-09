@@ -7,7 +7,7 @@
     width: 260px;
     background: #0f172a;
     color: #fff;
-    display: flex;
+    display: flex; 
     flex-direction: column;
     position: fixed;
     height: 100vh;
