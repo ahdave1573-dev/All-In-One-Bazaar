@@ -20,7 +20,7 @@ if (isset($_POST['send_message'])) {
     $name = mysqli_real_escape_string($conn, $_POST['name']);
     $email = mysqli_real_escape_string($conn, $_POST['email']);
     $subject = mysqli_real_escape_string($conn, $_POST['subject']);
-    $message = mysqli_real_escape_string($conn, $_POST['message']);
+    $message = mysqli_real_escape_string($conn, $_POST['message']); 
 
     // 2. Insert into Database (Optional: If you have a 'messages' table)
     $sql = "INSERT INTO messages (name, email, subject, message) VALUES ('$name', '$email', '$subject', '$message')";
