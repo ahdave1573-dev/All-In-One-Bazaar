@@ -335,9 +335,9 @@ include('includes/header.php');
                     Full Stack Development skills using PHP and MySQL.
                 </p>
                 <div class="dev-socials">
-                    <a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/anshul-dave-3a0a18345/" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
                     <a href="https://github.com/ahdave1573-dev" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                    <a href="mailto:anshul@example.com" title="Email"><i class="fas fa-envelope"></i></a>
+                    <a href="mailto:ahdave1573@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
                     <a href="#" title="Portfolio"><i class="fas fa-globe"></i></a>
                 </div>
             </div>
