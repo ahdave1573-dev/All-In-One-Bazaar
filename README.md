@@ -24,7 +24,9 @@
 
 ## 🌐 Live Demo
 
-🔗 **Website:** [allinonebazaar.infinityfreeapp.com](http://allinonebazaar.infinityfreeapp.com)
+🔗 **Live Website:** [https://allinonebazaar.infinityfreeapp.com](https://allinonebazaar.infinityfreeapp.com)
+
+> Click the link above to visit the live running website! 🚀
 
 ---
 
@@ -175,19 +177,6 @@ http://localhost/All-In-One-Bazaar/
 
 ---
 
-## 🖥️ Screenshots
-
-> *(Add your website screenshots here)*
-
-| Page            | Preview |
-|-----------------|---------|
-| 🏠 Home Page    | ![Home](https://via.placeholder.com/600x300?text=Home+Page) |
-| 🛒 Cart Page    | ![Cart](https://via.placeholder.com/600x300?text=Cart+Page) |
-| 🔐 Login Page   | ![Login](https://via.placeholder.com/600x300?text=Login+Page) |
-| 📊 Admin Panel  | ![Admin](https://via.placeholder.com/600x300?text=Admin+Panel) |
-
----
-
 ## 🔐 Default Admin Login
 
 > ⚠️ **Change these credentials after first login!**
@@ -262,13 +251,6 @@ This project is open source and available under the [MIT License](LICENSE).
 | **Website** | [allinonebazaar.infinityfreeapp.com](http://allinonebazaar.infinityfreeapp.com) |
 
 </div>
-
----
-
-## ⭐ Support
-
-જો આ project ગમ્યો હોય, તો GitHub પર ⭐ **Star** ચોક્કસ આપજો!  
-It really motivates to keep building! 🙏
 
 ---
 
