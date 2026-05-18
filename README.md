@@ -243,7 +243,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-| | |
+| | | 
 |---|---|
 | **Name** | Anshul Dave |
 | **Email** | [ahdave1573@gmail.com](mailto:ahdave1573@gmail.com) |
