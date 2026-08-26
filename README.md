@@ -22,14 +22,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Live Website:** [https://allinonebazaar.infinityfreeapp.com](https://allinonebazaar.infinityfreeapp.com)
-
-> Click the link above to visit the live running website! 🚀
-
----
-
 ## ✨ Features
 
 ### 👤 User Side
